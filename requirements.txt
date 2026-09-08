@@ -1,0 +1,9 @@
+rank_bm25
+rank-llm==0.12.8
+chromadb
+langchain
+langchain-core
+langchain-community
+langchain-openai
+chromadb 
+langchain_cohere
